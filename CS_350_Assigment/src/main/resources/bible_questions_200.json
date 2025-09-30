@@ -1,0 +1,342 @@
+[
+  {
+    "question": "Where was Jesus born?",
+    "options": ["Bethlehem", "Capernaum", "Jerusalem", "Nazareth"],
+    "answer": "Bethlehem"
+  },
+  {
+    "question": "Who was swallowed by a great fish?",
+    "options": ["Paul", "Jonah", "Peter", "Elijah"],
+    "answer": "Jonah"
+  },
+  {
+    "question": "Who received the Ten Commandments?",
+    "options": ["Noah", "Moses", "Abraham", "Jacob"],
+    "answer": "Moses"
+  },
+  {
+    "question": "Which apostle walked on water?",
+    "options": ["James", "Matthew", "Peter", "John"],
+    "answer": "Peter"
+  },
+  {
+    "question": "Who betrayed Jesus?",
+    "options": ["Thomas", "John", "Judas", "Peter"],
+    "answer": "Judas"
+  },
+  {
+    "question": "What is the first book of the Bible?",
+    "options": ["Exodus", "Genesis", "Leviticus", "Numbers"],
+    "answer": "Genesis"
+  },
+  {
+    "question": "Who built the ark?",
+    "options": ["Noah", "Abraham", "Moses", "David"],
+    "answer": "Noah"
+  },
+  {
+    "question": "Who led the Israelites out of Egypt?",
+    "options": ["Moses", "Joseph", "Joshua", "Aaron"],
+    "answer": "Moses"
+  },
+  {
+    "question": "Who was the first man created by God?",
+    "options": ["Adam", "Noah", "Abraham", "Moses"],
+    "answer": "Adam"
+  },
+  {
+    "question": "Who was thrown into the lions' den?",
+    "options": ["David", "Joseph", "Daniel", "Elijah"],
+    "answer": "Daniel"
+  },
+  {
+    "question": "What is the last book of the Bible?",
+    "options": ["Genesis", "Matthew", "Revelation", "Acts"],
+    "answer": "Revelation"
+  },
+  {
+    "question": "Who was Jesus' mother?",
+    "options": ["Elizabeth", "Mary", "Martha", "Sarah"],
+    "answer": "Mary"
+  },
+  {
+    "question": "Who was the first king of Israel?",
+    "options": ["David", "Solomon", "Saul", "Rehoboam"],
+    "answer": "Saul"
+  },
+  {
+    "question": "Who was David's famous son who became king?",
+    "options": ["Solomon", "Absalom", "Jonathan", "Rehoboam"],
+    "answer": "Solomon"
+  },
+  {
+    "question": "Who confronted Pharaoh to free the Israelites?",
+    "options": ["Aaron", "Moses", "Joshua", "Samuel"],
+    "answer": "Moses"
+  },
+  {
+    "question": "Who was the disciple known as the doubter?",
+    "options": ["Matthew", "Thomas", "Andrew", "Philip"],
+    "answer": "Thomas"
+  },
+  {
+    "question": "Who was the prophet who anointed David?",
+    "options": ["Elijah", "Samuel", "Nathan", "Elisha"],
+    "answer": "Samuel"
+  },
+  {
+    "question": "Who was the father of John the Baptist?",
+    "options": ["Zebedee", "Zechariah", "Joseph", "Simeon"],
+    "answer": "Zechariah"
+  },
+  {
+    "question": "Who was the first martyr of the Christian church?",
+    "options": ["Peter", "Paul", "Stephen", "James"],
+    "answer": "Stephen"
+  },
+  {
+    "question": "Who was the Pharisee who came to Jesus at night?",
+    "options": ["Gamaliel", "Nicodemus", "Saul", "Caiaphas"],
+    "answer": "Nicodemus"
+  },
+  {
+    "question": "Which woman was turned into a pillar of salt?",
+    "options": ["Rachel", "Ruth", "Lot's wife", "Esther"],
+    "answer": "Lot's wife"
+  },
+  {
+    "question": "Who was the oldest man in the Bible?",
+    "options": ["Adam", "Noah", "Methuselah", "Abraham"],
+    "answer": "Methuselah"
+  },
+  {
+    "question": "Who wrestled with an angel?",
+    "options": ["Jacob", "Esau", "Moses", "David"],
+    "answer": "Jacob"
+  },
+  {
+    "question": "Who was sold into slavery by his brothers?",
+    "options": ["Benjamin", "Joseph", "Reuben", "Judah"],
+    "answer": "Joseph"
+  },
+  {
+    "question": "Who had a coat of many colors?",
+    "options": ["David", "Joseph", "Samson", "Solomon"],
+    "answer": "Joseph"
+  },
+  {
+    "question": "Who killed Goliath?",
+    "options": ["Saul", "David", "Jonathan", "Samuel"],
+    "answer": "David"
+  },
+  {
+    "question": "Who was the strongest man in the Bible?",
+    "options": ["Goliath", "Samson", "David", "Saul"],
+    "answer": "Samson"
+  },
+  {
+    "question": "Who was the wisest king of Israel?",
+    "options": ["David", "Solomon", "Saul", "Rehoboam"],
+    "answer": "Solomon"
+  },
+  {
+    "question": "Who was the first murderer in the Bible?",
+    "options": ["Cain", "Abel", "Lamech", "Seth"],
+    "answer": "Cain"
+  },
+  {
+    "question": "Who was the first high priest of Israel?",
+    "options": ["Aaron", "Moses", "Samuel", "Eli"],
+    "answer": "Aaron"
+  },
+  {
+    "question": "Who was the first woman?",
+    "options": ["Eve", "Sarah", "Rebekah", "Rachel"],
+    "answer": "Eve"
+  },
+  {
+    "question": "Who was the mother of Samuel?",
+    "options": ["Hannah", "Elizabeth", "Ruth", "Deborah"],
+    "answer": "Hannah"
+  },
+  {
+    "question": "Who was the judge who defeated the Midianites?",
+    "options": ["Samson", "Gideon", "Deborah", "Jephthah"],
+    "answer": "Gideon"
+  },
+  {
+    "question": "Who was the prophet taken to heaven in a chariot of fire?",
+    "options": ["Elijah", "Elisha", "Isaiah", "Jeremiah"],
+    "answer": "Elijah"
+  },
+  {
+    "question": "Who was the queen who saved the Jews from destruction?",
+    "options": ["Esther", "Ruth", "Deborah", "Hannah"],
+    "answer": "Esther"
+  },
+  {
+    "question": "Who was the disciple Jesus loved?",
+    "options": ["Peter", "John", "James", "Andrew"],
+    "answer": "John"
+  },
+  {
+    "question": "Who was the tax collector who became a disciple?",
+    "options": ["Matthew", "Zacchaeus", "Judas", "Thomas"],
+    "answer": "Matthew"
+  },
+  {
+    "question": "Who was the Roman governor who sentenced Jesus to death?",
+    "options": ["Herod", "Pilate", "Caiaphas", "Felix"],
+    "answer": "Pilate"
+  },
+  {
+    "question": "Who was the first Gentile converted to Christianity?",
+    "options": ["Cornelius", "Lydia", "The Ethiopian eunuch", "Timothy"],
+    "answer": "Cornelius"
+  },
+  {
+    "question": "Who wrote most of the New Testament letters?",
+    "options": ["Peter", "Paul", "John", "James"],
+    "answer": "Paul"
+  },
+  {
+    "question": "Who was the first Christian martyr?",
+    "options": ["Stephen", "James", "Peter", "Paul"],
+    "answer": "Stephen"
+  },
+  {
+    "question": "Who was the sorcerer rebuked by Peter?",
+    "options": ["Bar-Jesus", "Simon Magus", "Demetrius", "Alexander"],
+    "answer": "Simon Magus"
+  },
+  {
+    "question": "Who was the companion of Paul on missionary journeys?",
+    "options": ["Barnabas", "Silas", "Timothy", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "question": "Who was the high priest during Jesus' trial?",
+    "options": ["Annas", "Caiaphas", "Nicodemus", "Gamaliel"],
+    "answer": "Caiaphas"
+  },
+  {
+    "question": "Who was the woman who washed Jesus' feet with her tears?",
+    "options": ["Mary Magdalene", "Mary of Bethany", "A sinful woman", "All of the above"],
+    "answer": "A sinful woman"
+  },
+  {
+    "question": "Who was the man who helped carry Jesus' cross?",
+    "options": ["Simon of Cyrene", "Joseph of Arimathea", "Nicodemus", "Barabbas"],
+    "answer": "Simon of Cyrene"
+  },
+  {
+    "question": "Who was the first person to see Jesus after His resurrection?",
+    "options": ["Mary Magdalene", "Peter", "John", "The two disciples on the road to Emmaus"],
+    "answer": "Mary Magdalene"
+  },
+  {
+    "question": "Who was the centurion who declared, 'Truly this was the Son of God'?",
+    "options": ["Cornelius", "Julius", "The centurion at the cross", "None of the above"],
+    "answer": "The centurion at the cross"
+  },
+  {
+    "question": "Who was the man who replaced Judas as an apostle?",
+    "options": ["Matthias", "Barnabas", "Paul", "Silas"],
+    "answer": "Matthias"
+  },
+  {
+    "question": "Who was the first Gentile to receive the Holy Spirit?",
+    "options": ["Cornelius", "Lydia", "The Ethiopian eunuch", "The Philippian jailer"],
+    "answer": "Cornelius"
+  },
+  {
+    "question": "Who was the woman who became a follower of Paul in Philippi?",
+    "options": ["Lydia", "Priscilla", "Phoebe", "Dorcas"],
+    "answer": "Lydia"
+  },
+  {
+    "question": "Who was the young man who fell asleep during a sermon and fell out a window?",
+    "options": ["Timothy", "Titus", "Eutychus", "Onesimus"],
+    "answer": "Eutychus"
+  },
+  {
+    "question": "Who was the runaway slave converted by Paul?",
+    "options": ["Onesimus", "Philemon", "Epaphras", "Tychicus"],
+    "answer": "Onesimus"
+  },
+  {
+    "question": "Who was the prophet who foretold Jesus' birth?",
+    "options": ["Isaiah", "Jeremiah", "Micah", "Malachi"],
+    "answer": "Isaiah"
+  },
+  {
+    "question": "Who was the king who ordered the massacre of infants in Bethlehem?",
+    "options": ["Herod the Great", "Pilate", "Caesar Augustus", "Nero"],
+    "answer": "Herod the Great"
+  },
+  {
+    "question": "Who was the woman who anointed Jesus with expensive perfume?",
+    "options": ["Mary of Bethany", "Mary Magdalene", "A sinful woman", "All of the above"],
+    "answer": "Mary of Bethany"
+  },
+  {
+    "question": "Who was the man who buried Jesus?",
+    "options": ["Joseph of Arimathea", "Nicodemus", "Both", "None of the above"],
+    "answer": "Both"
+  },
+  {
+    "question": "Who was the disciple who denied Jesus three times?",
+    "options": ["Peter", "Judas", "Thomas", "John"],
+    "answer": "Peter"
+  },
+  {
+    "question": "Who was the man who replaced Judas as an apostle?",
+    "options": ["Matthias", "Barnabas", "Paul", "Silas"],
+    "answer": "Matthias"
+  },
+  {
+    "question": "Who was the first Gentile to receive the Holy Spirit?",
+    "options": ["Cornelius", "Lydia", "The Ethiopian eunuch", "The Philippian jailer"],
+    "answer": "Cornelius"
+  },
+  {
+    "question": "Who was the woman who became a follower of Paul in Philippi?",
+    "options": ["Lydia", "Priscilla", "Phoebe", "Dorcas"],
+    "answer": "Lydia"
+  },
+  {
+    "question": "Who was the young man who fell asleep during a sermon and fell out a window?",
+    "options": ["Timothy", "Titus", "Eutychus", "Onesimus"],
+    "answer": "Eutychus"
+  },
+  {
+    "question": "Who was the runaway slave converted by Paul?",
+    "options": ["Onesimus", "Philemon", "Epaphras", "Tychicus"],
+    "answer": "Onesimus"
+  },
+  {
+    "question": "Who was the prophet who foretold Jesus' birth?",
+    "options": ["Isaiah", "Jeremiah", "Micah", "Malachi"],
+    "answer": "Isaiah"
+  },
+  {
+    "question": "Who was the king who ordered the massacre of infants in Bethlehem?",
+    "options": ["Herod the Great", "Pilate", "Caesar Augustus", "Nero"],
+    "answer": "Herod the Great"
+  },
+  {
+    "question": "Who was the woman who anointed Jesus with expensive perfume?",
+    "options": ["Mary of Bethany", "Mary Magdalene", "A sinful woman", "All of the above"],
+    "answer": "Mary of Bethany"
+  },
+  {
+    "question": "Who was the man who buried Jesus?",
+    "options": ["Joseph of Arimathea", "Nicodemus", "Both", "None of the above"],
+    "answer": "Both"
+  },
+  {
+    "question": "Who was the disciple who denied Jesus three times?",
+    "options": ["Peter", "Judas", "Thomas", "John"],
+    "answer": "Peter"
+  }
+]
